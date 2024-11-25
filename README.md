@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @CooperDActor-bytes
+- 👋 Hi, I’m Cooper!
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Cisco
 - 💞️ I’m looking to collaborate on OpenPOS
-- 📫 How to reach me Issues Tab
-- 😄 Pronouns: Normal but He/Him (wait no i classify as a kookaburra jk)
-- ⚡ Fun fact: i am 12
+- 📫 How to reach me kiaora@salty.cool
+- ⚡ Fun fact: i am 13 sooo be nice lol
 
 <!---
 CooperDActor-bytes/CooperDActor-bytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
