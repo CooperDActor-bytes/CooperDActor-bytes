@@ -22,5 +22,5 @@ Hope to see ya around!
 Cooper 2024 Newcastle Australia
 
 
-Cooper Alexander D'Andilly is an entity 
+Cooper Alexander D'Andilly is an entity registered in Australia all rights reserved
 
